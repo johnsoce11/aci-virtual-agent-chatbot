@@ -29,9 +29,9 @@ export default function App() {
             <Image
               src="/logo.webp"
               alt="Logo"
-              width={144}
-              height={144}
-              className="rounded-lg shadow-sm"
+              width={432}
+              height={432}
+              className="shadow-sm"
               priority
             />
             <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
